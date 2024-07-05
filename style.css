@@ -1,4 +1,5 @@
 body{
+    display: ruby-text;
     background: linear-gradient(90deg, rgba(255, 125, 147, 0.74)40%, rgba(0, 255, 55, 0.774) 100%);
 }
 form{
