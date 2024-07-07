@@ -1,6 +1,18 @@
 body{
-    display: ruby-text;
-    background: linear-gradient(90deg, rgba(255, 125, 147, 0.74)40%, rgba(0, 255, 55, 0.774) 100%);
+    width: 98%;
+    height: 100vh;
+    background-color: rgb(240, 230, 222);
+}
+.background-container{
+    height: 100%;
+    background-image: url('WhatsApp\ Image\ 2024-07-05\ at\ 20.44.46.jpg'); /* Substitua pelo caminho da sua imagem */
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
 }
 form{
     text-align: center;
