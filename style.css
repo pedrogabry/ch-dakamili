@@ -1,9 +1,11 @@
 body{
-    background-color: rgb(240, 230, 222);
+    background: radial-gradient(circle at bottom right, rgba(0, 0, 0, 0.5), rgba(240, 230, 222) 60%);
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 95vh;
+    height: 100vh;
+
+    
 }
 
 form{
