@@ -2,14 +2,14 @@ body{
     background: radial-gradient(circle at bottom right, rgba(0, 0, 0, 0.5), rgba(240, 230, 222) 60%);
     display: flex;
     justify-content: center;
-    align-items: center;
     height: 100vh;
+    align-content: flex-start;
+    flex-wrap: wrap;
 
     
 }
 
 form{
-    margin-bottom: 450px;
     text-align: center;
     border-radius: 15px;
     height: 400px;
